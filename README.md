@@ -9,10 +9,12 @@
 - [x] 2.4 Ajustando os parafusos
 - [x] 2.5 Próximos passos
 ## 3 Primeiro Sistema
-- [ ] 3.1 O nosso contexto
-- [ ] 3.2 Criando uma aplicação simples
-- [ ] 3.3 O nosso contexto
-- [ ] 3.4 Dados
-- [ ] 3.5 Usando a aplicação
-- [ ] 3.6 Usando o console H2
-- [ ] 3.7 Próximos passos
+- [x] 3.1 O nosso contexto
+- [x] 3.2 Criando uma aplicação simples
+- [x] 3.3 O nosso contexto
+- [x] 3.4 Dados
+- [x] 3.5 Usando a aplicação
+- [x] 3.6 Usando o console H2
+- [x] 3.7 Próximos passos
+## 4 Explorando os dados
+- [ ] 4.1 O Novo projeto
