@@ -18,3 +18,9 @@
 - [x] 3.7 Próximos passos
 ## 4 Explorando os dados
 - [ ] 4.1 O Novo projeto
+- [ ] 4.2 As classes de domínio
+- [ ] 4.3 Repositórios
+- [ ] 4.4 Carga inicial
+- [ ] 4.5 Próximos passos
+## 5 Explorando os Templates
+- [ ] 5.1 Templates naturais
