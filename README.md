@@ -17,10 +17,10 @@
 - [x] 3.6 Usando o console H2
 - [x] 3.7 Próximos passos
 ## 4 Explorando os dados
-- [ ] 4.1 O Novo projeto
-- [ ] 4.2 As classes de domínio
-- [ ] 4.3 Repositórios
-- [ ] 4.4 Carga inicial
-- [ ] 4.5 Próximos passos
+- [x] 4.1 O Novo projeto
+- [x] 4.2 As classes de domínio
+- [x] 4.3 Repositórios
+- [x] 4.4 Carga inicial
+- [x] 4.5 Próximos passos
 ## 5 Explorando os Templates
 - [ ] 5.1 Templates naturais
