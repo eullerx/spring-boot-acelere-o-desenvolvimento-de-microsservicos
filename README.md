@@ -23,4 +23,7 @@
 - [x] 4.4 Carga inicial
 - [x] 4.5 Próximos passos
 ## 5 Explorando os Templates
-- [ ] 5.1 Templates naturais
+- [x] 5.1 Templates naturais
+- [x] 5.2 Convenções
+- [x] 5.3 Layout padrão
+- [ ] 5.4 Crud
